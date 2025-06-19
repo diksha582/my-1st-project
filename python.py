@@ -1,0 +1,2 @@
+str = " file "
+print(str)
